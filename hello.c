@@ -2,4 +2,5 @@
 int main()
 {
 	printf ( "the sum is %d",11+12);
+	printf("the sum is %d",6+5);
 }
