@@ -7,4 +7,5 @@ int main()
 	printf ("the sum is %d",8+9);
 	printf ("the sum is %d"2+3);
 
+	printf ("the sum is %d" ,6+4 );
 }
