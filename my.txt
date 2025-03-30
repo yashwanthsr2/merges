@@ -1,3 +1,5 @@
 my first line in master branch
 my second line in master branch
-my third line in master branch 
+my third line in master branch
+my fourth line in master branch and not visible in master branch 
+
