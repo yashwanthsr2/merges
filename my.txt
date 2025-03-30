@@ -1,2 +1,3 @@
 my first line in master branch
-my second line in master branch 
+my second line in master branch
+my third line in master branch 
